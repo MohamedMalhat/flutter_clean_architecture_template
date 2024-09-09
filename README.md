@@ -1,0 +1,2 @@
+# flutter_clean_architecture_template
+Flutter clean architecture template
